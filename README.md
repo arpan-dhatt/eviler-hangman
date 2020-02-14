@@ -1,2 +1,2 @@
 # eviler-hangman
-A very evil hangman. Hopefully most evil.
+A very evil hangman. Hopefully the most evil.
