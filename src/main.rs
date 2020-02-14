@@ -1,3 +1,4 @@
+mod hangman;
+
 fn main() {
-    println!("Hello, world!");
 }
